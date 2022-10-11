@@ -806,7 +806,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox=
 {
   body
     {
-    background:url('../src/images/pattern-background-mobile.svg');
+    background:url('..dist/src/images/pattern-background-mobile.svg');
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed;
